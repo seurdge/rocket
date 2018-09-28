@@ -1,0 +1,19 @@
+{
+  "name": "elevatorcontroller",
+  "version": "1.0.0",
+  "description": "serge elevator con troller",
+  "main": "ElevatorController.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seurdge/rocket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seurdge/rocket/issues"
+  },
+  "homepage": "https://github.com/seurdge/rocket#readme"
+}
