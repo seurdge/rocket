@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/seurdge/rocket/issues"
   },
-  "homepage": "https://github.com/seurdge/rocket#readme"
+  "homepage": "https://github.com/seurdge/rocket#readme",
+  "scripts": {
+    "start": "node ElevatorController.js"
+  }
 }
